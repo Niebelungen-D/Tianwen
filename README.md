@@ -37,3 +37,8 @@ proxy lab：完成part A，B，还在调试Part c的bug。A，B在ppt上都给�
 
 最后，加载器跳转到_start 地址，它最终会调用应用程序的 main 函数。
 
+## week 4
+
+完成了malloc lab的分离适配，并对realloc进行了部分优化。目前得分91/100。
+
+阅读glibc2.20-malloc的源码，目前读完了int_malloc，整理了笔记。第一次看源码速度很慢。结合之前看wiki，大致理解了其框架以及分配流程。（感概自己写的malloc太糙了
