@@ -47,8 +47,10 @@ proxy lab：完成part A，B，还在调试Part c的bug。A，B在ppt上都给�
 
 参照firmeye的思路进行了改进，若是对所有的危险函数进行回溯，导致程序崩溃，所以这里参照了sakura师傅的思路，用户指定回溯地址和回溯目标寄存器。脚本基本可以跑通，但是测试起来似乎效果不是很好，有待改进，或许应该用丛丛师傅推荐的trtion（
 
-week 5脚本 + 思路笔记：
+## week 7
 
+学习了FIDL的API，其核心API能实现的功能似乎不多，发现其还使用了Lighthouse的API。仅使用FIDL的话，对参数的处理还是有限，如果能处理好，FIDL和汇编层IDApython的数据结构问题，应该更好分析。
 
+## week 8
 
-
+CodeQL学习，目前只学习了语法，做了github的codeql-uboot挑战。漏洞模式方面还没有整理....
