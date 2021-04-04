@@ -54,3 +54,7 @@ proxy lab：完成part A，B，还在调试Part c的bug。A，B在ppt上都给�
 ## week 8
 
 CodeQL学习，目前只学习了语法，做了github的codeql-uboot挑战。漏洞模式方面还没有整理....
+
+## week 9
+
+Unix环境编程，根据晓晓师傅的文档，开始学习了一周的Unix环境编程。对进程、线程和信号等重点学习了一下。基本把晓晓师傅文档中的练习都做了。
